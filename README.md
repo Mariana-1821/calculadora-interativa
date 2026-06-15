@@ -1,4 +1,4 @@
-# Calculadora Intrerativa
+# Calculadora Interativa
 
 ## Descrição
 
